@@ -1,4 +1,4 @@
-package exercise;
+package unit1.exercise;
 
 import java.util.Arrays;
 import java.util.Collections;
